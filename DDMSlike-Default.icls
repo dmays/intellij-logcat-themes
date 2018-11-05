@@ -1,0 +1,41 @@
+<scheme name="DDMSlike-Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-10-23T16:14:57</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.2.1.0</property>
+    <property name="modified">2018-10-23T16:15:02</property>
+    <property name="originalScheme">David Mays</property>
+  </metaInfo>
+  <attributes>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bb2b2f" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1194d6" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="db332f" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c890d" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a8a8a8" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bb7000" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
